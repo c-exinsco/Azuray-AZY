@@ -2,7 +2,7 @@
 # Azuray-AZY
 Azuray AZY BSC BEP20 TOKEN - https://c-exins.co/tokens/BEP20/azuray-azy/
 
-<h1>Azuray Token</h1>
+<h1>Azuray AZY</h1>
 <h2>Binance Smart Contract (BSC) BEP-20</h2>
 <img src="https://c-exins.co/lnkimages/Azuray-AZY-logo-200x200.png" alt="Azuray AZY" title="Azuray AZY" /> <br />
 
