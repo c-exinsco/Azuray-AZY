@@ -62,13 +62,12 @@ We have been listed our Azuray AZY coin on Mintme Exchange <br/>
 <b>Facebook:</b> https://facebook.com/cexinsco <br/>
 <b>LinkedIn:</b> https://linkedin.com/in/cexinsco <br/>
 <b>Tiktok:</b> https://tiktok.com/@cexinsco?lang=en <br/>
-<b>Telegram:</b> https://t.me/https://t.me/AzurayAZYTraders (<b>Join Price Updates: AZURAY AZY</b>) <br/>
 <b>Telegram:</b> https://t.me/cexinsco <br/>
 <b>Medium:</b> https://c-exins-co.medium.com/azuray-azy-19cd3d66c2b <br/>
 <b>Youtube:</b> https://www.youtube.com/channel/UCjtssoExd5cf9NNKooyvW4g <br/>
 <b>Website:</b> https://www.c-exins.co <br/>
-<b>Email:</b> info@c-exins.co (For Generals) <br/>
-              Azuray-AZY@c-exins.co (For Developers) <br/> <br/>
+<b>Email:</b> info@c-exins.co (For Generals) , Azuray-AZY@c-exins.co (For Developers) <br/> <br/> <br/>
+
 
 Saturday, 22 May, 2022 <br/>
 C-EXINS Blockchain Department, <a href="http://Odeonus.com" title="Odeonus.com">Odeonus.com</a> <br/>
