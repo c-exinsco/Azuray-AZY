@@ -21,7 +21,7 @@ Azuray AZY token. Created/Owned by C-EXINS. Launched today on <br />
 <h3>Wallets Supported</h3> to Store Azuray (AZY) tokens. <br />
 
 
-<h1><a href="https://microsoftedge.microsoft.com/addons/detail/metamask/ejbalbakoplchlghecdalmeeeajnimhm?hl=en-US" title="Azuray AZY on Metamask">Metamask</a></h1>, <h1><a href="https://trustwallet.com/dl/apk" title="Azuray AZY on TronLink">TronLink</a></h1> etc.
+<h1><a href="https://microsoftedge.microsoft.com/addons/detail/metamask/ejbalbakoplchlghecdalmeeeajnimhm?hl=en-US" title="Azuray AZY on Metamask">Metamask</a></h1>, <h1><a href="https://trustwallet.com/dl/apk" title="Azuray AZY on Tron Wallet">Trust</a></h1> etc.
 
 
 It is how you would add Azuray (AZY) token into any BEP-20 supported wallet 
